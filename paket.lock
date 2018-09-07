@@ -1,0 +1,5 @@
+RESTRICTION: == netstandard2.0
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FSharp.Core (4.5.2) - redirects: on
+    System.ValueTuple (4.5)
